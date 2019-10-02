@@ -1,2 +1,3 @@
 # Innovate
 Ideas for new projects can be posted here.Also this repository is for any(may or may not belong to any department) new,unique or relevant projects.
+In my opinion,ML and AI have vast applications in daily world activities like self driving cars , neurotechnology , brain and heart surgery , robotics and automation , agriculture , medicine and etc. Vast implementations here will be our future...
