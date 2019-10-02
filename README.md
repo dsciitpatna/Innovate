@@ -1,2 +1,3 @@
 # Innovate
-Ideas for new projects can be posted here.Also this repository is for any(may or may not belong to any department) new,unique or relevant projects.
+App for catalogue of PC,ANDROID and ios games
+We can create an app which contains all the details of games for pc , android and ios platform.This app contains a well ordered list of games with gameplays. Gaming features and specifications for suitable device.
